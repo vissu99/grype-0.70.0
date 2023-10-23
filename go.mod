@@ -8,17 +8,17 @@ require (
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/adrg/xdg v0.4.0
 	github.com/anchore/bubbly v0.0.0-20230801194016-acdb4981b461
-	github.com/anchore/clio v0.0.0-20230915181724-f1acbce87918
+	github.com/anchore/clio v0.0.0-20231016125544-c98a83e1c7fc
 	github.com/anchore/go-logger v0.0.0-20230725134548-c21dafa1ec5a
 	github.com/anchore/go-testutils v0.0.0-20200925183923-d5f45b0d3c04
 	github.com/anchore/go-version v1.2.2-0.20210903204242-51efa5b487c4
 	github.com/anchore/packageurl-go v0.1.1-0.20230104203445-02e0a6721501
 	github.com/anchore/stereoscope v0.0.0-20230925132944-bf05af58eb44
-	github.com/anchore/syft v0.93.0
+	github.com/anchore/syft v0.94.0
 	github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46
 	github.com/bmatcuk/doublestar/v2 v2.0.4
 	github.com/charmbracelet/bubbletea v0.24.2
-	github.com/charmbracelet/lipgloss v0.9.0
+	github.com/charmbracelet/lipgloss v0.9.1
 	github.com/docker/docker v24.0.6+incompatible
 	github.com/dustin/go-humanize v1.0.1
 	github.com/facebookincubator/nvdtools v0.1.5
@@ -26,7 +26,7 @@ require (
 	github.com/gkampitakis/go-snaps v0.4.11
 	github.com/glebarez/sqlite v1.9.0
 	github.com/go-test/deep v1.1.0
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/google/go-containerregistry v0.16.1
 	github.com/google/uuid v1.3.1
 	github.com/gookit/color v1.5.4
@@ -227,7 +227,7 @@ require (
 	go.uber.org/goleak v1.2.0 // indirect
 	golang.org/x/crypto v0.14.0 // indirect
 	golang.org/x/mod v0.13.0 // indirect
-	golang.org/x/net v0.16.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/oauth2 v0.8.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
 	golang.org/x/sys v0.13.0 // indirect
